@@ -1,5 +1,9 @@
 # 10-minutes-of-go
 
-This repository hosts some funny examples encountered during my daily life.
+这个项目主要维护个人日常见到的一些有用的样例代码。
 
+## 项目结构
 
+|             文件 | 说明                                                         |
+| ---------------: | :----------------------------------------------------------- |
+| versioning-build | 通过 `go build` 命令为编译的项目注入版本信息，以便于项目调试 |
